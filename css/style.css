@@ -1,8 +1,8 @@
 body {
-		background: #ffffff;
+    background: #ffffff;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-		font-weight: 400;
+    font-weight: 400;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -231,7 +231,7 @@ footer {
 }
 
 #home {
-    background: url('http://p0isr3t3u.bkt.clouddn.com/home-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('https://p0isr3t3u.bkt.clouddn.com/home-bg.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
