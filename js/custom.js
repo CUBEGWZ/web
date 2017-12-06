@@ -55,9 +55,5 @@ $(document).ready(function() {
   new WOW({
     mobile: true
   }).init();
-
-  //设置播放的视频
-  videojs.options.flash.swf = "video-js.swf";
-
-
+  
 });
