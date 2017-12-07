@@ -50,13 +50,13 @@ OpenDCP入门简介视频：
 -   Wang Guansheng
 
 
-## 交流 [OpenDCP官网](https://bugwz.github.io/opendcp)
+## 交流 
 
-
+### [OpenDCP官网](https://bugwz.github.io/opendcp)
 
 [![Gitter](https://badges.gitter.im/weibocom/opendcp.svg)](https://gitter.im/weibocom/opendcp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
 
-opendcp交流qq群：369485460  
+opendcp交流qq群：369485460
 二维码加入：  
  ![](document/media/opendcp_qq_group.png)
 
